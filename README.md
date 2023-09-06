@@ -23,7 +23,9 @@ We have prepared two projects that you can work through during the day:
 
 * [Composition and Cycles][spirograph] involves implementing code to draw images like those produced by a physical [spirograph][wiki-spirograph]. This project is appropriate for people very little Scala or programming knowledge. This project is part of a book, Creative Scala, that teaches programming assuming no prior knowledge, so we can start as early as needed in the book to get you the knowledge you need.
 
-This event is about you, so we're not trying to force you into a particular pathway. If you choose one of the projects above, don't feel that you have to complete it all. Take time to explore things that you find interesting. This session is about learning, not about meeting a deadline. You can do something else if you want. There is a good chance there will be a mentor who is able to support you, whatever you choose, but be aware you can't expect the mentors to improvise a lesson on the spot. If you go this route expect to do a bit more work yourself, with the mentors acting more as collaborators than guides.
+If you choose one of the projects above, don't feel that you have to complete it all. Take time to explore things that you find interesting. This session is about learning, not about meeting a deadline. 
+
+This event is about you, so we're not trying to force you into a particular pathway. You don't have to the follow the above projects if there is something else you'd rather work on. Whatever you choose there is a good chance there will be a mentor who is able to support you, but be aware you can't expect mentors to improvise a lesson on the spot. If you choose your own project, expect to do a bit more work yourself.
 
 
 ### Mentors
