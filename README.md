@@ -17,11 +17,15 @@ There are two groups of people: students and mentors. We have specific sections 
 
 ### Students
 
-We have prepared two projects that you can work through during the day:
+We have prepared four projects that you can work through during the day:
+
+* [Composition and Cycles][spirograph] involves implementing code to draw images like those produced by a physical [spirograph][wiki-spirograph]. This project is appropriate for people very little Scala or programming knowledge. This project is part of a book, Creative Scala, that teaches programming assuming no prior knowledge, so we can start as early as needed in the book to get you the knowledge you need.
+
+* [Gradient Descent][gradient-descent] implements gradient descent, an algorithm commonly used in machine learning, using a few different techniques. This project is suitable for people with a little bit of Scala experience.
 
 * [Stoop][stoop] involves implementing a series of little programming languages, that culminates in a small but Turing-complete language with a Scala-like syntax. (A stoop is small set of stairs for entering a house.) This project is appropriate for people with some existing Scala knowledge.
 
-* [Composition and Cycles][spirograph] involves implementing code to draw images like those produced by a physical [spirograph][wiki-spirograph]. This project is appropriate for people very little Scala or programming knowledge. This project is part of a book, Creative Scala, that teaches programming assuming no prior knowledge, so we can start as early as needed in the book to get you the knowledge you need.
+* [Parser Combinators][parser-combinators] implements and optimizes a parser combinator library. This project is suited to reasonably experienced Scala developers who want to learn more about type classes and library design.
 
 If you choose one of the projects above, don't feel that you have to complete it all. Take time to explore things that you find interesting. This session is about learning, not about meeting a deadline. 
 
@@ -41,6 +45,8 @@ It's a good idea to take a quick look at the above projects before the day. A fe
 
 * For the [Stoop][stoop] project, [PLAI][plai] will guide the students through the implementation. However PLAI uses the [Racket][racket] programming language, which may be confusing to students. There is a fairly direct conversion to Scala. It's all algebraic data types and structural recursion. There is a thorough explanation of these techniques in the Scala context in the [WIP version of Scala with Cats][scala-with-cats].
 
+* For the other two case studies, there are online notes that the students can follow along with.
+
 [scalabridge]: https://scaladays.org/madrid-2023/scala-bridge
 [scala-days]: https://scaladays.org/madrid-2023/
 [address]: https://www.urjc.es/universidad/campus/sedes#situacion-y-planos-2
@@ -50,3 +56,5 @@ It's a good idea to take a quick look at the above projects before the day. A fe
 [plai]: https://www.plai.org/
 [racket]: https://www.racket-lang.org/
 [scala-with-cats]: https://scalawithcats.github.io/scala-with-cats/
+[gradient-descent]: https://github.com/creativescala/case-study-gradient-descent
+[parser-combinators]: https://github.com/creativescala/case-study-parser
