@@ -21,7 +21,7 @@ We have prepared four projects that you can work through during the day:
 
 * [Composition and Cycles][spirograph] involves implementing code to draw images like those produced by a physical [spirograph][wiki-spirograph]. This project is appropriate for people very little Scala or programming knowledge. This project is part of a book, Creative Scala, that teaches programming assuming no prior knowledge, so we can start as early as needed in the book to get you the knowledge you need.
 
-* [Gradient Descent][gradient-descent] implements gradient descent, an algorithm commonly used in machine learning, using a few different techniques. This project is suitable for people with a little bit of Scala experience.
+* [Gradient Descent][gradient-descent] implements gradient descent, an algorithm commonly used in machine learning, using a few different techniques. This project is suitable for people with a little bit of Scala experience, and preferrably some knowledge of calculus (though this is not required.)
 
 * [Stoop][stoop] involves implementing a series of little programming languages, that culminates in a small but Turing-complete language with a Scala-like syntax. (A stoop is small set of stairs for entering a house.) This project is appropriate for people with some existing Scala knowledge.
 
