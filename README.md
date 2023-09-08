@@ -25,7 +25,7 @@ We have prepared two projects that you can work through during the day:
 
 If you choose one of the projects above, don't feel that you have to complete it all. Take time to explore things that you find interesting. This session is about learning, not about meeting a deadline. 
 
-This event is about you, so we're not trying to force you into a particular pathway. You don't have to the follow the above projects if there is something else you'd rather work on. Whatever you choose there is a good chance there will be a mentor who is able to support you, but be aware you can't expect mentors to improvise a lesson on the spot. If you choose your own project, expect to do a bit more work yourself.
+This event is about you, so we're not trying to force you into a particular pathway. You don't have to follow the above projects if there is something else you'd rather work on. Whatever you choose there is a good chance there will be a mentor who is able to support you, but be aware you can't expect mentors to improvise a lesson on the spot. If you choose your own project, expect to do a bit more work yourself.
 
 
 ### Mentors
